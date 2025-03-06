@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741247165 source:c:\users\namayan\desktop\insertion_sort\sorting\lib.cpp
+	"lib.h"
+
+1741247176 c:\users\namayan\desktop\insertion_sort\sorting\lib.h
+	<iostream>
+
